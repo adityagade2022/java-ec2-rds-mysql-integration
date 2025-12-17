@@ -1,4 +1,4 @@
-📌 Project Objective
+📌 # Project Objective
 
 The objective of this project is to deploy a Java-based application on an Amazon EC2 instance and connect it with an AWS RDS MySQL database. The application performs basic CRUD operations, while MySQL Workbench is used for remote database administration. This project demonstrates a secure and scalable cloud-based application architecture.
 
@@ -33,10 +33,9 @@ Step-by-step flow:
 
 📌 Key Advantages
 
-✅ Scalability – EC2 and RDS can be scaled independently based on application load.
-✅ Loose Coupling – Application and database are separated, improving system stability.
-✅ High Availability – RDS supports automated backups, snapshots, and Multi-AZ deployments.
-✅ Security – Access is restricted using AWS Security Groups and database credentials.
-✅ Operational Simplicity – MySQL Workbench enables easy database management without EC2 access.
-✅ Industry-Standard Architecture – Reflects enterprise-grade cloud application design.
-✅ Cost Efficiency – Pay-as-you-go pricing with flexible scaling options.
+1)  Scalability – EC2 and RDS can be scaled independently based on application load.
+2) Loose Coupling – Application and database are separated, improving system stability.
+3) High Availability – RDS supports automated backups, snapshots, and Multi-AZ deployments.
+4) Security – Access is restricted using AWS Security Groups and database credentials.
+5) Operational Simplicity – MySQL Workbench enables easy database management without EC2 access.
+6) Cost Efficiency – Pay-as-you-go pricing with flexible scaling options.
